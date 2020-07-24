@@ -1,0 +1,77 @@
+State_Code,State,District_Key,District,Confirmed,Active,Recovered,Deceased
+UP,Uttar Pradesh,UP_Agra,Agra,1497,168,1233,96
+UP,Uttar Pradesh,UP_Aligarh,Aligarh,928,479,424,25
+UP,Uttar Pradesh,UP_Ambedkar Nagar,Ambedkar Nagar,149,17,126,6
+UP,Uttar Pradesh,UP_Amethi,Amethi,340,24,315,1
+UP,Uttar Pradesh,UP_Amroha,Amroha,336,141,186,9
+UP,Uttar Pradesh,UP_Auraiya,Auraiya,153,42,109,2
+UP,Uttar Pradesh,UP_Ayodhya,Ayodhya,624,268,348,8
+UP,Uttar Pradesh,UP_Azamgarh,Azamgarh,454,146,298,10
+UP,Uttar Pradesh,UP_Baghpat,Baghpat,508,95,405,8
+UP,Uttar Pradesh,UP_Bahraich,Bahraich,208,64,142,2
+UP,Uttar Pradesh,UP_Ballia,Ballia,722,398,316,8
+UP,Uttar Pradesh,UP_Balrampur,Balrampur,131,33,95,3
+UP,Uttar Pradesh,UP_Banda,Banda,173,116,56,1
+UP,Uttar Pradesh,UP_Barabanki,Barabanki,712,120,588,4
+UP,Uttar Pradesh,UP_Bareilly,Bareilly,878,510,342,26
+UP,Uttar Pradesh,UP_Basti,Basti,538,159,362,17
+UP,Uttar Pradesh,UP_Bhadohi,Bhadohi,238,66,169,3
+UP,Uttar Pradesh,UP_Bijnor,Bijnor,520,151,363,6
+UP,Uttar Pradesh,UP_Budaun,Budaun,271,84,185,2
+UP,Uttar Pradesh,UP_Bulandshahr,Bulandshahr,1054,222,807,25
+UP,Uttar Pradesh,UP_Chandauli,Chandauli,476,280,191,5
+UP,Uttar Pradesh,UP_Chitrakoot,Chitrakoot,116,16,98,2
+UP,Uttar Pradesh,UP_Deoria,Deoria,583,303,275,5
+UP,Uttar Pradesh,UP_Etah,Etah,205,74,121,10
+UP,Uttar Pradesh,UP_Etawah,Etawah,497,168,309,20
+UP,Uttar Pradesh,UP_Farrukhabad,Farrukhabad,327,99,218,10
+UP,Uttar Pradesh,UP_Fatehpur,Fatehpur,290,97,187,6
+UP,Uttar Pradesh,UP_Firozabad,Firozabad,596,49,511,36
+UP,Uttar Pradesh,UP_Gautam Buddha Nagar,Gautam Buddha Nagar,4144,973,3132,39
+UP,Uttar Pradesh,UP_Ghaziabad,Ghaziabad,3978,1332,2583,63
+UP,Uttar Pradesh,UP_Ghazipur,Ghazipur,501,118,376,7
+UP,Uttar Pradesh,UP_Gonda,Gonda,268,68,191,9
+UP,Uttar Pradesh,UP_Gorakhpur,Gorakhpur,1052,488,541,23
+UP,Uttar Pradesh,UP_Hamirpur,Hamirpur,162,62,96,4
+UP,Uttar Pradesh,UP_Hapur,Hapur,995,177,800,18
+UP,Uttar Pradesh,UP_Hardoi,Hardoi,575,294,274,7
+UP,Uttar Pradesh,UP_Hathras,Hathras,225,27,194,4
+UP,Uttar Pradesh,UP_Jalaun,Jalaun,239,43,188,8
+UP,Uttar Pradesh,UP_Jaunpur,Jaunpur,870,227,631,12
+UP,Uttar Pradesh,UP_Jhansi,Jhansi,1156,756,354,46
+UP,Uttar Pradesh,UP_Kannauj,Kannauj,425,133,289,3
+UP,Uttar Pradesh,UP_Kanpur Dehat,Kanpur Dehat,109,43,65,1
+UP,Uttar Pradesh,UP_Kanpur Nagar,Kanpur Nagar,2437,1014,1303,120
+UP,Uttar Pradesh,UP_Kasganj,Kasganj,263,108,155,0
+UP,Uttar Pradesh,UP_Kaushambi,Kaushambi,278,85,192,1
+UP,Uttar Pradesh,UP_Kushinagar,Kushinagar,377,188,182,7
+UP,Uttar Pradesh,UP_Lakhimpur Kheri,Lakhimpur Kheri,200,67,133,0
+UP,Uttar Pradesh,UP_Lalitpur,Lalitpur,119,104,12,3
+UP,Uttar Pradesh,UP_Lucknow,Lucknow,4009,2509,1453,47
+UP,Uttar Pradesh,UP_Maharajganj,Maharajganj,336,110,222,4
+UP,Uttar Pradesh,UP_Mahoba,Mahoba,128,59,66,3
+UP,Uttar Pradesh,UP_Mainpuri,Mainpuri,478,135,331,12
+UP,Uttar Pradesh,UP_Mathura,Mathura,597,162,409,26
+UP,Uttar Pradesh,UP_Mau,Mau,317,190,122,5
+UP,Uttar Pradesh,UP_Meerut,Meerut,1835,453,1287,95
+UP,Uttar Pradesh,UP_Mirzapur,Mirzapur,302,102,194,6
+UP,Uttar Pradesh,UP_Moradabad,Moradabad,934,317,579,38
+UP,Uttar Pradesh,UP_Muzaffarnagar,Muzaffarnagar,560,191,352,17
+UP,Uttar Pradesh,UP_Pilibhit,Pilibhit,213,52,161,0
+UP,Uttar Pradesh,UP_Pratapgarh,Pratapgarh,170,44,116,10
+UP,Uttar Pradesh,UP_Prayagraj,Prayagraj,961,466,460,35
+UP,Uttar Pradesh,UP_Rae Bareli,Rae Bareli,274,104,165,5
+UP,Uttar Pradesh,UP_Rampur,Rampur,565,169,384,12
+UP,Uttar Pradesh,UP_Saharanpur,Saharanpur,624,128,492,4
+UP,Uttar Pradesh,UP_Sambhal,Sambhal,756,286,456,14
+UP,Uttar Pradesh,UP_Sant Kabir Nagar,Sant Kabir Nagar,515,196,312,7
+UP,Uttar Pradesh,UP_Shahjahanpur,Shahjahanpur,364,212,151,1
+UP,Uttar Pradesh,UP_Shamli,Shamli,287,104,178,5
+UP,Uttar Pradesh,UP_Shrawasti,Shrawasti,100,21,77,2
+UP,Uttar Pradesh,UP_Siddharthnagar,Siddharthnagar,417,137,270,10
+UP,Uttar Pradesh,UP_Sitapur,Sitapur,131,59,71,1
+UP,Uttar Pradesh,UP_Sonbhadra,Sonbhadra,282,218,63,1
+UP,Uttar Pradesh,UP_Sultanpur,Sultanpur,388,174,206,8
+UP,Uttar Pradesh,UP_Unnao,Unnao,472,216,251,5
+UP,Uttar Pradesh,UP_Varanasi,Varanasi,1335,746,547,42
+UP,Uttar Pradesh,UP_Unknown,Unknown,0,0,0,0
