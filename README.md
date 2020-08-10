@@ -1,7 +1,7 @@
 # COVID-19-Analysis-project
-This Repository is part of Short-Term Course on COVID19 Data Analysis from 15-29 July 2020 by IEEE JECRC STUDENT CHAPTER (STB11410).
-The analysis was performed with Python one of the most approachable languages for Machine learning users.
-In this course we have some assignments, 2 minor projects and major project.
+<b>This Repository is part of Short-Term Course on COVID19 Data Analysis from 15-29 July 2020 by IEEE JECRC STUDENT CHAPTER (STB11410).</b><br>
+The analysis was performed with Python one of the most approachable languages for Machine learning users.<br>
+In this course we have some assignments, 2 minor projects and major project.<br>
  
  Assignment 1:-
       Program for detecting symptoms of COVID-19 in a person. By asking questions according to there symptoms.
